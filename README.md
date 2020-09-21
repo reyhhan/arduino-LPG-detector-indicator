@@ -17,7 +17,7 @@ In the case of a LPG leakage, when the MQ2 detector senses LPG gas in the air, t
 
 References
 The Arduino libraries required for this project,
-HX711 Source:  https://github.com/bogde/HX711
-LiquidCrystal Arduino Library
-Wire Library
+> HX711 Source:  https://github.com/bogde/HX711
+> LiquidCrystal Arduino Library
+> Wire Library
 
